@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning something everyday
 - 💞️ I’m looking to collaborate on different projects in my free time
 - 📫 How to reach me ... shaheen4qau@gmail.com
+- 🔗 LinkedIn https://www.linkedin.com/in/adnanshaheen
 
 <!---
 adnanshaheen/adnanshaheen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
